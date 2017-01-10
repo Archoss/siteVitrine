@@ -60,7 +60,11 @@
 	font-weight: bold;
 }
 
+#equipe article {
+	margin-top: 10px;
+	margin-bottom: 10px;
 
+}
 
 #equipe article:first-child{
 	width: 200px;
