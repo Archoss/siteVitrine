@@ -1,19 +1,19 @@
 	<body>
 		<section id="equipe">
 			<article>
-				<img src="img/postIt.png" alt="Pierre">
+				<img src="" alt="Pierre">
 				<p>Pierre</p>
 			</article>
 			<article>
-				<img src="img/postIt.png" alt="Sonny">
+				<img src="" alt="Sonny">
 				<p>Sonny</p>
 			</article>
 			<article>
-				<img src="img/postIt.png" alt="Heramban">
+				<img src="" alt="Heramban">
 				<p>Heramban</p>
 			</article>
 			<article>	
-				<img src="img/postIt.png" alt="Yann">
+				<img src="" alt="Yann">
 				<p>Yann</p>
 			<article>
 		</section>	
