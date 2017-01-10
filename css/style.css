@@ -1,1 +1,51 @@
 /*lol*/
+
+/*Section présentation*/
+
+#presentation {
+	float: left;
+	width: 100%;
+	height: 20%;
+	font-family: 'Roboto Slab', serif;
+	padding: 2rem;
+	background-color: #635F5F;
+	border-radius:4px;
+	
+}
+
+
+.photo {
+	float: left;
+	width: 30%;
+	height: auto;
+	background-color: #F3ECEC;
+	
+}
+
+.photo img {
+
+	width: 100%;
+	height: auto;
+	margin:auto;
+}
+
+.nousSommes {
+	float: left;
+	width: 65%;
+	height: 50em;
+	padding: 2rem;
+	background-color: #F87A7A;
+	
+}
+
+.nousSommes h2 {
+
+	text-align: center;
+	font-size: 2.5rem;
+}
+
+.nousSommes p {
+
+	font-size: 1.5rem;
+	font-weight: bold;
+}
