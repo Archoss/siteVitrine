@@ -35,16 +35,45 @@ html{
 	CONTENUE
 --------------------*/
 
+
 /*reserve*/
 .reserve input {
     display: block;
 }
 
+/*equipe*/
+.equipe :first-child { 
+	width: 200px;
+	height: 200px;
+	background-color: grey;
+	float: left;
+}
 
 
 
+.equipe :nth-child(2){
+	width: 200px;
+	height: 200px;
+	background-color: darkgrey;
+	float: left;
+	
+}
 
+.equipe :nth-child(3){
+	width: 200px;
+	height: 200px;
+	background-color: lightgrey;
+	float: left;
 
+}
+
+.equipe :last-child { 
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+	float: left;
+
+}
 /*---------------------
 	FOOTER
 --------------------
