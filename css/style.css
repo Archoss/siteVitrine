@@ -1,26 +1,26 @@
 
-#equipe:first-child{
+#equipe article:first-child{
 	width: 200px;
 	height: 200px;
 	float: left;
 	background-color: grey;
 }
 
-#equipe:nth-child(2){
+#equipe article:nth-child(2){
 	width: 200px;
 	height: 200px;
 	float: left;
 	background-color: green;
 }
 
-#equipe:nth-child(3){
+#equipe article:nth-child(3){
 	width: 200px;
 	height: 200px;
 	float: left;
 	background-color: darkgrey;
 }
 
-#equipe:last-child{
+#equipe article:last-child{
 	width: 200px;
 	height: 200px;
 	float: left;
