@@ -15,26 +15,50 @@
 
 	<body>
 			<header>
-					<h1>Webforce Restaurant</h1>
+					<h1>Webforce Beurk!!</h1>
 					<nav>
 						<ul>	
-							<li>	</li>
-							<li>	</li>
-							<li>	</li>
+							<li><a href="#presentation">Présentation</a></li>
+							<li><a href="#equipe">L'équipe</a></li>
+							<li><a href="#reserve">Réservation</a></li>
 						</ul>	
 					</nav>	
 			</header>
 
 			<main>
-					<section class="presentation">	
+					<section id="presentation">	
 
 					</section>
 
-					<section class="equipe">	
+					<section id="equipe">	
 
 					</section>
 					
-					<section class="reserve">	
+					<section id="reserve">
+							<h2>Réservation</h2>
+							<p>Vous souhaitez reserver?</p>
+
+							<form>
+								<label for="nom">Nom:</label>
+								<input type="text" name="nom" id="nom">
+
+								<label for="prenom">Nom:</label>
+								<input type="text" name="prenom" id="prenom">
+
+								<label for="place">Nonbre de personne:</label>
+								<select name="place">
+  									<option value="valeur1" selected="1">1 </option>
+  									<option value="valeur2">2 </option>
+  									<option value="valeur3">3</option>
+  									<option value="valeur3">3+</option>
+								</select>
+								<label for="jour">Jour:</label>
+								<input type="date" name="jour" id="jour">
+								<label for="heure">Heure:</label>
+								<input type="time" name="heure" id="heure">	
+
+								<input type="submit" value="reservé">
+							</form>
 
 					</section>
 			</main>
