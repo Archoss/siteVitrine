@@ -35,10 +35,7 @@
 
 
 					<section id="equipe">	
-						<article></article>
-						<article></article>
-						<article></article>
-						<article></article>
+
 
 					</section>
 					

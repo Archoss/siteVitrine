@@ -1,1 +1,27 @@
-/*lol*/
+#equipe:first-child{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: grey;
+}
+
+#equipe:nth-child(2){
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: green;
+}
+
+#equipe:nth-child(3){
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: darkgrey;
+}
+
+#equipe:last-child{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: lightgrey;
+}
