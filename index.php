@@ -31,7 +31,10 @@
 					</section>
 
 					<section class="equipe">	
-
+						<article></article>
+						<article></article>
+						<article></article>
+						<article></article>
 					</section>
 					
 					<section class="reserve">	
