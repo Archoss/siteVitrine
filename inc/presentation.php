@@ -1,22 +1,5 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<!-- Le meta -->
-		<meta charset="utf-8">
-		<!-- le style -->
-		<link rel="stylesheet" type="text/css" href="../css/style.css">
-		<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
-		<!-- jQuery -->
-		<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-		<script type="text/javascript" src="js/script.js"></script>
-		<!-- Le titre -->
-		<title></title>
-	</head>
-	<body>
+
 		
-		
-		<main>
-		<section id="presentation">
 			<aside class="photo" >
 				
 				<img src="./img/beurk.jpg">
@@ -44,14 +27,4 @@
 				
 			</article>
 		
-	</section>
-	<section class="equipe">
-	</section>
 	
-	<section class="reserve">
-	</section>
-	</main>
-	<footer>
-	</footer>
-</body>
-</html>
