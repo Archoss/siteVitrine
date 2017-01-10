@@ -30,16 +30,16 @@
 
 					</section>
 
-<<<<<<< HEAD
+
 					<section id="equipe">	
 
-=======
-					<section class="equipe">	
+
+					<section id="equipe">	
 						<article></article>
 						<article></article>
 						<article></article>
 						<article></article>
->>>>>>> origin/master
+
 					</section>
 					
 					<section id="reserve">
