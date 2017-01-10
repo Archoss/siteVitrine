@@ -46,7 +46,7 @@
 	width: 60%;
 	height: 40em;
 	padding: 0.5rem;
-	margin-left: 1rem;
+	margin-left: 2rem;
 	background-color:black;
 	color: white;
 	
@@ -237,16 +237,7 @@ footer.footer{
 	margin-left: 10px;
 }
 
-h3, p{
-	width: 218px;
-	font-size:20px;
-	color: black;
-	text-align: center
-}
 
-h3{
-	text-align: center;
-}
 
 .logo{
 	width: 30%;
