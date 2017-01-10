@@ -1,3 +1,4 @@
+
 /*lol*/
 
 /*Section présentation*/
@@ -49,3 +50,33 @@
 	font-size: 1.5rem;
 	font-weight: bold;
 }
+
+
+#equipe article:first-child{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: grey;
+}
+
+#equipe article:nth-child(2){
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: green;
+}
+
+#equipe article:nth-child(3){
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: darkgrey;
+}
+
+#equipe article:last-child{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background-color: lightgrey;
+}
+
