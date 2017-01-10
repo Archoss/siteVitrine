@@ -28,7 +28,7 @@
 	float: left;
 	width: 30%;
 	height: auto;
-	background-color: #F3ECEC;
+/*	background-color: #F3ECEC;*/
 	
 }
 
@@ -36,8 +36,9 @@
 
 	width: 100%;
 	height: auto;
-	border: 2px solid white;
+	border: 5px inset orange;
 	border-radius: 3px;
+	box-shadow: 3px 6px 10px black;
 }
 
 .nousSommes {
