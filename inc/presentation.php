@@ -28,11 +28,17 @@
 				<ul>
 
 					<li>Rat d'égout à la crème de cafards </li>
+					<li class="prix">20€, un gibier difficile</li><br>
 					<li>Soupe de moustique du métro</li>
+					<li class="prix">50€, une chasse nu au heures de pointes</li><br>
 					<li>Caviar de gardon de la Seine</li>
+					<li class="prix">10€</li>
 					<li>Foie gras de caniche servi sur sa salade de platane</li>
+					<li class="prix">100€, il faut quand même semer la mémé</li><br>
 					<li>farce de truffes de chats de gouttière et dentelle de sac poubelle </li>
+					<li class="prix">5€</li><br>
 					<li>Pigeon en croute de bitume</li>
+					<li class="prix">10€, pas cher et tient au corps</li>
 					
 				</ul>
 				
