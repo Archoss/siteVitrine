@@ -1,4 +1,4 @@
-<form action="libs/services.php?action=reserver" method="post">
+<form action="libs/service.php?action=reserver" method="post">
 <div>	
 	<label for="nom">Nom:</label>
 	<input type="text" name="nom" id="nom">
@@ -12,10 +12,10 @@
 <div>	
 	<label for="place">Nonbre de personne:</label>
 	<select name="place">
-  		<option value="valeur1" selected="1">1 </option>
-  		<option value="valeur2">2 </option>
-  		<option value="valeur3">3</option>
-  		<option value="valeur3">3+</option>
+  		<option value="1" selected="1">1 </option>
+  		<option value="2">2 </option>
+  		<option value="3">3</option>
+  		<option value="4">3+</option>
 	</select>
 </div>
 
@@ -30,6 +30,6 @@
 </div>
 
 
-<input type="submit" value="reservé">
+<input type="submit" value="reserver">
 
 </form>							
