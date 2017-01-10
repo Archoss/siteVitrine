@@ -32,7 +32,15 @@
 			</aside>
 			<article class="nousSommes">
 				<h2>WebForceBeurk, le restaurant gastro qu'il vous faut</h2>
-				<p>Idéalement situé dans le 14ième arrondissement de Paris, nimbé par l'histoire et riche d'un environnement social virevoltant, WebForceBeurk est un must dans la sphére culinaire. Notre chef, reconnu internationalement pour avoir été le premier vecteur de l'épidémie de grippe en 1918, a été formé par les plus grandes écoles. Entouré par une équipe particulièrement douée, il sait fait oeuvre de virtuosité lorsqu'il s'agit de concocter les mets qu'il a récupérer dans les poubelles des quartiers les plus riches.</p>
+				<p>Idéalement situé dans le 14ième arrondissement de Paris, nimbé par l'histoire et riche d'un environnement social virevoltant, WebForceBeurk est un must dans la sphére culinaire. Notre chef, reconnu internationalement pour avoir été le premier vecteur de l'épidémie de grippe en 1918, a été formé par les plus grandes écoles. Entouré par une équipe particulièrement douée, il sait fait oeuvre de virtuosité lorsqu'il s'agit de concocter les mets qu'il a récupéré dans les poubelles des quartiers les plus riches.<br></p>
+				<h3>Nos meilleures réussites</h3>
+				<ul>
+
+					<li>Rat d'égout à la crème de cafards </li>
+					<li>Soupe de moustique du métro</li>
+					<li>Caviar de gardon de la Seine</li>
+					
+				</ul>
 				
 			</article>
 		
