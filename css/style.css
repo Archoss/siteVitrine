@@ -89,38 +89,56 @@
 }
 
 #equipe article:first-child{
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: grey;
+/*	background-color: grey;
+*/	margin-right: 20px;
+}
+
+#equipe article p{
+	position: absolute;
+	top: 1000px;
+	margin-top: -40px;
+	margin-left: 15px;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #d9d9d9;
+	text-shadow: 2px 2px 5px black;
 }
 
 #equipe article img{
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: grey;
+/*	background-color: grey;
+*/
 }
 
 #equipe article:nth-child(2){
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: green;
+/*	background-color: green;
+*/	margin-right: 20px;
+
 }
 
 #equipe article:nth-child(3){
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: darkgrey;
+/*	background-color: darkgrey;
+*/	margin-right: 20px;
 }
 
 #equipe article:last-child{
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: lightgrey;
+/*	background-color: lightgrey;
+*/
+
 }
 
 
