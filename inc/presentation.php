@@ -23,6 +23,7 @@
 				</ul>
 			</nav>
 		</header>
+		
 		<main>
 		<section id="presentation">
 			<aside class="photo" >
