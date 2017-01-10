@@ -22,13 +22,25 @@
 							<li>	</li>
 							<li>	</li>
 						</ul>	
-
 					</nav>	
-
 			</header>
 
+			<main>
+					<section class="presentation">	
 
+					</section>
 
+					<section class="equipe">	
 
+					</section>
+					
+					<section class="reserve">	
+
+					</section>
+			</main>
+
+			<footer>	
+
+			</footer>
 	</body>
 </html>
