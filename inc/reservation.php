@@ -1,11 +1,11 @@
 <form action="libs/services.php?action=reserver" method="post">
 <div>	
-	<label for="nom">Nom:</label>
+	<label for="nom">Nom : </label>
 	<input type="text" name="nom" id="nom">
 </div>
 
 <div>	
-	<label for="prenom">Nom:</label>
+	<label for="prenom">Prenom : </label>
 	<input type="text" name="prenom" id="prenom">
 </div>
 

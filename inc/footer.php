@@ -6,10 +6,11 @@
 
 			<!-- Contactez-Nous -->
 
-			<h3>Contactez-nous</h3>
+			
 
 				<div class="contact">
 					 <address>
+					 	<h3>Contactez-nous</h3>
 						<a href="tel:+123456789" title="Téléphone">Téléphone : 01 69 67 66 65</a><br>
 
 						<a href=">wf3Restaurant@gmail.fr" title="Adresse E-mail">wf3Restaurant@gmail.fr</a><br>
