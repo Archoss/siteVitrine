@@ -12,11 +12,12 @@
 /*Section présentation*/
 
 #presentation {
+	
 	float: left;
 	width: 100%;
-	height: 20%;
+	height: auto;
 	font-family: 'Roboto Slab', serif;
-	padding: 2rem;
+	padding: 1rem;
 	background-color: #635F5F;
 	border-radius:4px;
 	
@@ -27,7 +28,7 @@
 	float: left;
 	width: 30%;
 	height: auto;
-	background-color: #F3ECEC;
+/*	background-color: #F3ECEC;*/
 	
 }
 
@@ -35,67 +36,133 @@
 
 	width: 100%;
 	height: auto;
-	margin:auto;
+	border: 5px inset orange;
+	border-radius: 3px;
+	box-shadow: 3px 6px 10px black;
 }
 
 .nousSommes {
 	float: left;
-	width: 65%;
-	height: 50em;
+	width: 60%;
+	height: 40em;
 	padding: 2rem;
-	background-color: #F87A7A;
+	margin-left: 1rem;
+	background-color:black;
+	color: white;
 	
 }
 
 .nousSommes h2 {
 
 	text-align: center;
-	font-size: 2.5rem;
+	font-size: 2rem;
+}
+
+.nousSommes h3 {
+
+	text-align: center;
+	font-size : 1.5rem;
 }
 
 .nousSommes p {
-
-	font-size: 1.5rem;
+	text-align: justify;
+	font-size: 1.2rem;
 	font-weight: bold;
 }
 
+#equipe article {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 
+
+.nousSommes ul {
+
+	text-align: center;
+	margin-bottom: 2rem;
+}
+
+.nousSommes li {
+
+	list-style-type : none;
+
+}
 
 #equipe article:first-child{
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: grey;
+/*	background-color: grey;
+*/	margin-right: 20px;
+}
+
+#equipe article p{
+	position: absolute;
+	top: 1000px;
+	margin-top: -40px;
+	margin-left: 15px;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #d9d9d9;
+	text-shadow: 2px 2px 5px black;
 }
 
 #equipe article img{
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: grey;
+/*	background-color: grey;
+*/
 }
 
 #equipe article:nth-child(2){
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: green;
+/*	background-color: green;
+*/	margin-right: 20px;
+
 }
 
 #equipe article:nth-child(3){
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: darkgrey;
+/*	background-color: darkgrey;
+*/	margin-right: 20px;
 }
 
 #equipe article:last-child{
-	width: 200px;
-	height: 200px;
+	width: 220px;
+	height: 220px;
 	float: left;
-	background-color: lightgrey;
+/*	background-color: lightgrey;
+*/
+
 }
 
+
+/* --- --- --- RESERVE --- --- --- */
+
+#reserve{
+	margin:10px;
+	padding: 15px;
+	clear: both;
+	background: linear-gradient(180deg, black, #333333);
+	color: white;
+	font-weight: bolder;
+	text-align: center;
+}
+
+input{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+label{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
 /*---------------------
 	FOOTER
 --------------------*/
@@ -144,7 +211,11 @@ h3{
 	text-align: center;
 }
 
+<<<<<<< HEAD
 .logo{
 	width: 30%;
 
 }
+=======
+
+>>>>>>> origin/master
