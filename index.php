@@ -26,52 +26,32 @@
 			</header>
 
 			<main>
-					<section id="presentation">	
+				<section id="presentation">	
 
-					</section>
+					<?php 	include "inc/presentation.php" ?>
 
+				</section>
 
-					<section id="equipe">	
+				<section id="equipe">	
 
+					<?php 	include "inc/equipe.php" ?>
 
-					<section id="equipe">	
-						<article></article>
-						<article></article>
-						<article></article>
-						<article></article>
-
-					</section>
+				</section>
 					
-					<section id="reserve">
-							<h2>Réservation</h2>
-							<p>Vous souhaitez reserver?</p>
+				<section id="reserve">
+					<h2>Réservation</h2>
+					<p>Vous souhaitez reserver?</p>
 
-							<form>
-								<label for="nom">Nom:</label>
-								<input type="text" name="nom" id="nom">
+						
 
-								<label for="prenom">Nom:</label>
-								<input type="text" name="prenom" id="prenom">
+						<?php 	include "inc/reservation.php" ?>
 
-								<label for="place">Nonbre de personne:</label>
-								<select name="place">
-  									<option value="valeur1" selected="1">1 </option>
-  									<option value="valeur2">2 </option>
-  									<option value="valeur3">3</option>
-  									<option value="valeur3">3+</option>
-								</select>
-								<label for="jour">Jour:</label>
-								<input type="date" name="jour" id="jour">
-								<label for="heure">Heure:</label>
-								<input type="time" name="heure" id="heure">	
-
-								<input type="submit" value="reservé">
-							</form>
-
+							
 					</section>
 			</main>
 
-			<footer>	
+			<footer>
+					<?php 	include "inc/footer.php" ?>	
 
 			</footer>
 	</body>
