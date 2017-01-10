@@ -7,7 +7,43 @@
 	margin-right: auto;
 	margin-left: auto;
 }
+/*navigation*/
 
+header{
+    background-color: black;
+    width:     100%;
+
+
+}
+header h1{
+text-align: left;
+color: white;
+display:     inline;
+}
+
+nav{
+    float:     right;    
+    text-align: right;
+    list-style: none;
+    width: 50%;
+
+}
+
+nav ul{
+
+}
+
+nav ul li {
+    display: inline;
+
+
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+
+}
 
 /*Section présentation*/
 
