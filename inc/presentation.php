@@ -13,32 +13,26 @@
 		<title></title>
 	</head>
 	<body>
-		<header>
-			<h1></h1>
-			<nav>
-				<ul>
-					<li>	</li>
-					<li>	</li>
-					<li>	</li>
-				</ul>
-			</nav>
-		</header>
+		
 		
 		<main>
 		<section id="presentation">
 			<aside class="photo" >
 				
-				<img src="../img/beurk.jpg">
+				<img src="./img/beurk.jpg">
 			</aside>
 			<article class="nousSommes">
 				<h2>WebForceBeurk, le restaurant gastro qu'il vous faut</h2>
-				<p>Idéalement situé dans le 14ième arrondissement de Paris, nimbé par l'histoire et riche d'un environnement social virevoltant, WebForceBeurk est un must dans la sphére culinaire. Notre chef, reconnu internationalement pour avoir été le premier vecteur de l'épidémie de grippe en 1918, a été formé par les plus grandes écoles. Entouré par une équipe particulièrement douée, il sait fait oeuvre de virtuosité lorsqu'il s'agit de concocter les mets qu'il a récupéré dans les poubelles des quartiers les plus riches.<br></p>
+				<p>Idéalement situé dans le 14ième arrondissement de Paris, nimbé par l'histoire et riche d'un environnement social virevoltant, WebForceBeurk est un must dans la sphére culinaire. Notre chef, reconnu internationalement pour avoir été le premier vecteur de l'épidémie de grippe en 1918, a été formé par les plus grandes écoles. Entouré par une équipe particulièrement douée, il sait fait oeuvre de virtuosité lorsqu'il s'agit de concocter les mets qu'il a récupéré dans les poubelles des quartiers les plus riches.<br>Chez nous, tout est local, pas d'intemédiaire, pas de transport. Nous avons le meilleur bilan carbone de Paris et de sa région. Respect des traditions, circuit court, vous trouverez chez nous l'essence du Paname séculaire</p><br>
 				<h3>Nos meilleures réussites</h3>
 				<ul>
 
 					<li>Rat d'égout à la crème de cafards </li>
 					<li>Soupe de moustique du métro</li>
 					<li>Caviar de gardon de la Seine</li>
+					<li>Foie gras de caniche servi sur sa salade de platane</li>
+					<li>farce de truffes de chats de gouttière et dentelle de sac poubelle </li>
+					<li>Pigeon en croute de bitume</li>
 					
 				</ul>
 				
