@@ -96,6 +96,8 @@
 	background-color: lightgrey;
 }
 
+/* --- --- --- RESERVE --- --- --- */
+
 #reserve{
 	margin:10px;
 	padding: 15px;
@@ -105,4 +107,10 @@
 	font-weight: bolder;
 	text-align: center;
 }
+
+input{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
 
